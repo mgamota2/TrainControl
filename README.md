@@ -8,7 +8,7 @@ https://www.digikey.com/en/products/detail/triad-magnetics/WSU180-1000/3094965
 Power Plug
 https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/694106301002/5047522
 
-Rail Voltage Control MOSFET(NMOS)
+Rail Voltage Control MOSFET(PMOS)
 https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMZ290UNE2YL/5361189
 
 L293D H-Bridge
